@@ -1,4 +1,4 @@
-# Criminal-detection-using-facial-detection
+# Criminal-detection-using-facial-recognition
 This project can be used to detect criminals using cctv's.
 It will not be executed if you just copy and paste the code directly.
 SOME IMPORTANT POINTS TO NOTE
